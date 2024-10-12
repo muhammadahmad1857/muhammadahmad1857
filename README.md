@@ -2,7 +2,7 @@
 <h1 align="center">Hi all, I am Muhammad Ahmad ! 👋
 </h1>
 
-<h2 align="center">👋 Hello there! Welcome to my GitHub profile, where creativity meets code. I'm M. Ahmad Jawad, a passionate software developer on a journey to craft elegant solutions to complex problems. Here's a glimpse into the vast universe of technologies I've explored and mastered:
+<h2 align="center">👋 Hello there! Welcome to my GitHub profile, where creativity meets code. I'm Muhammad Ahmad, a passionate software developer on a journey to craft elegant solutions to complex problems. Here's a glimpse into the vast universe of technologies I've explored and mastered:
 </h2>
 
 
