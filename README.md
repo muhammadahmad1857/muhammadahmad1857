@@ -19,6 +19,16 @@ Diving into the frontend realm, I've conjured captivating user experiences with:
 &nbsp;&nbsp;[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/muhammadahmad1857?tab=repositories&q=&type=&language=typescript)
 &nbsp;&nbsp;[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/muhammadahmad1857?tab=repositories&q=&type=&language=typescript)
 
+### Animation Magic
+
+[![GSAP](https://img.shields.io/badge/GSAP-78C100?style=for-the-badge&logo=greensock&logoColor=white)](https://github.com/muhammadahmad1857?tab=repositories&q=&type=&language=javascript)
+
+### CMS Powerhouse
+
+[![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)](https://github.com/muhammadahmad1857?tab=repositories&q=&type=&language=javascript)
+&nbsp;&nbsp;[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://github.com/muhammadahmad1857?tab=repositories&q=&type=&language=typescript)
+&nbsp;&nbsp;[![Contentful](https://img.shields.io/badge/Contentful-43CD80?style=for-the-badge&logo=contentful&logoColor=white)](https://github.com/muhammadahmad1857?tab=repositories&q=&type=&language=typescript)
+
 ## Backend Wizardry ⚙️
 
 Venturing into the backend domain, I've wielded powerful tools to construct robust server-side solutions:
@@ -29,8 +39,6 @@ Venturing into the backend domain, I've wielded powerful tools to construct robu
 &nbsp;&nbsp;[![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/muhammadahmad1857?tab=repositories&q=&type=&language=typescript)
 &nbsp;&nbsp;[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/muhammadahmad1857?tab=repositories&q=&type=&language=typescript)
 &nbsp;&nbsp;[![Mongoose](https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white)](https://github.com/muhammadahmad1857?tab=repositories&q=&type=&language=typescript)
-&nbsp;&nbsp;[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://github.com/muhammadahmad1857?tab=repositories&q=&type=&language=typescript)
-&nbsp;&nbsp;[![Contentful](https://img.shields.io/badge/Contentful-43CD80?style=for-the-badge&logo=contentful&logoColor=white)](https://github.com/muhammadahmad1857?tab=repositories&q=&type=&language=typescript)
 &nbsp;&nbsp;[![REST API](https://img.shields.io/badge/REST_API-009696?style=for-the-badge&logo=rest&logoColor=white)](https://github.com/muhammadahmad1857?tab=repositories&q=&type=&language=typescript)
 &nbsp;&nbsp;[![Axios](https://img.shields.io/badge/Axios-0096FF?style=for-the-badge&logo=axios&logoColor=white)](https://github.com/muhammadahmad1857?tab=repositories&q=&type=&language=typescript)
 
